@@ -1,7 +1,9 @@
 # PublicSuscribeIngSoftware
 Prototipo de Public Suscribe
 En el prototipo de publicación-suscripción implementado:
-[!Video](https://www.youtube.com/watch?v=-bhRRn1NyUM&ab_channel=Yefersonvalencia)
+
+[**Video**](https://www.youtube.com/watch?v=-bhRRn1NyUM&ab_channel=Yefersonvalencia)
+
 **Objetivo:**
 - Crear un sistema de mensajería utilizando el patrón de publicación-suscripción.
 - Utilizar el broker de mensajería Mosquitto para facilitar la comunicación entre los nodos.
